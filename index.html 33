@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tradefast_Pay</title>
+  <style>
+ body{
+  Background-color: rgba(255, 64, 0, 0.392);
+ }
+ 
+ h1{
+  color: whitesmoke;
+  background-color: darkolivegreen;
+ }
+
+ h2{
+  color: whitesmoke;
+  background-color: #361E3B;
+ }
+  </style>
+</head>
+
+<body>
+  <h1>Hello</h1>
+  <h2>World</h2>
+</body>
+
+</html>
